@@ -1,6 +1,6 @@
 ### Olá, eu sou Ruan Costa
 
-- 📒 Estudante de desenvlvimento front-end e back-end
+- 📒 Estudante de desenvolvimento front-end e back-end
 - 🔥 Atualmente focado em React.JS e Node.JS
 - ✉️ Me contate no email: ruancostadev@gmail.com
 
