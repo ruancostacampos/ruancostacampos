@@ -7,7 +7,7 @@
 Projetos rodando: 
 
 ### Site de produtos naturais [Ajustes finais]
-React, CSS Modules : 
+React, CSS Modules, Framer Motion: 
 <a href="https://terraquea.vercel.app/">terraquea.vercel.app</a>
 
 ### Adote um pet
