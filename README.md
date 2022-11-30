@@ -6,7 +6,7 @@
 
 Projetos rodando: 
 
-### Site de produtos naturais
+### Site de produtos naturais [Ajustes finais]
 React, CSS Modules : 
 <a href="https://terraquea.vercel.app/">terraquea.vercel.app</a>
 
@@ -23,7 +23,7 @@ HTML, CSS, JavaScript:
 HTML, CSS: 
 <a href="https://ruancostacampos.github.io/product-card/">Card responsivo</a>
 
-### PEC Monitor
+### PEC Monitor [Em desenvolvimento]
 Sistema que tem o objetivo principal de fazer monitoramento de agentes de saúde com o e-SUS-PEC, onde será notificado
 via whatsapp o acs que não estiver fazendo a sincronização com frequência.
 
