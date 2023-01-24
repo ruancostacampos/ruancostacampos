@@ -24,8 +24,7 @@ HTML, CSS:
 <a href="https://ruancostacampos.github.io/product-card/">Card responsivo</a>
 
 ### PEC Monitor [Em desenvolvimento]
-Sistema que tem o objetivo principal de fazer monitoramento de agentes de saúde com o e-SUS-PEC, onde será notificado
-via whatsapp o acs que não estiver fazendo a sincronização com frequência.
+Sistema que tem o objetivo principal de fazer monitoramento dos servidores que estão rodando o e-SUS PEC no município.
 
 
 
