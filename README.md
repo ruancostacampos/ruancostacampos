@@ -16,7 +16,7 @@ React, CSS Modules, Framer Motion:
 
 ### Consulta na Tabela SIGTAP 
 React, TailWindCSS: 
-<a href="https://sigtap-consulta.vercel.app/">terraquea2.vercel.app</a>
+<a href="https://sigtap-consulta.vercel.app/">sigtap-consulta.vercel.app</a>
 
 ### Adote um pet
 Feito durante uma turma multistack da treinaweb, onde fiz implementações adicionais na interface e no backend, 
