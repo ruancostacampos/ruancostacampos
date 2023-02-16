@@ -6,9 +6,17 @@
 
 Projetos rodando: 
 
-### Site de produtos naturais [Sendo refeito em NextJS]
+### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
 <a href="https://terraquea.vercel.app/">terraquea.vercel.app</a>
+
+### Site de produtos naturais [Versão NextJS (Em andamento)]
+React, CSS Modules, Framer Motion: 
+<a href="https://terraquea2.vercel.app/">terraquea2.vercel.app</a>
+
+### Consulta na Tabela SIGTAP 
+React, TailWindCSS: 
+<a href="https://sigtap-consulta.vercel.app/">terraquea2.vercel.app</a>
 
 ### Adote um pet
 Feito durante uma turma multistack da treinaweb, onde fiz implementações adicionais na interface e no backend, 
