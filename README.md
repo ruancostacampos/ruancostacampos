@@ -19,7 +19,7 @@ React, TailWindCSS:
 <a href="https://sigtap-consulta.vercel.app/">sigtap-consulta.vercel.app</a>
 
 ### Quiz em javascript puro
-Feito em um projeto onde trabalho como voluntária em um grupo de desenvolvedores de vários países, usando o 
+Feito em um projeto onde trabalho como voluntário em um grupo de desenvolvedores de vários países, usando o 
 inglês para me comunicar com o time.
 <a href="https://ruancostacampos.github.io/oman-quiz/">ruancostacampos.github.io/oman-quiz/</a>
 
