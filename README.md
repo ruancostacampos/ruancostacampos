@@ -6,7 +6,7 @@
 
 Projetos rodando: 
 ### Site terráquea
-<a href="https://terraquea.com.br/">terraquea.vercel.app</a>
+<a href="https://terraquea.com.br/">Terraquea.com.br</a>
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
