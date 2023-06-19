@@ -5,6 +5,8 @@
 - ✉️ Me contate no email: ruancostadev@gmail.com
 
 Projetos rodando: 
+### Site terráquea
+<a href="https://terraquea.com.br/">terraquea.vercel.app</a>
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
