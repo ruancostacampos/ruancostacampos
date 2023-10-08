@@ -9,7 +9,7 @@ Projetos rodando:
 <a href="https://terraquea.com.br/">Terraquea.com.br</a>
 
 ### Portifólio temporário
-<a href="https://challenge-portifolio.vercel.app">Portifólio</a>
+<a href="https://ruancostacampos.vercel.app">Portifólio</a>
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
