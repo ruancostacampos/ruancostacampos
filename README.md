@@ -23,7 +23,7 @@ Projetos rodando:
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
-<a href="https://terraquea.vercel.app/ target="_blank" >terraquea.vercel.app</a>
+<a href="https://terraquea.vercel.app/" target="_blank" >terraquea.vercel.app</a>
 
 ### Site de produtos naturais [Versão NextJS (Em andamento)]
 React, CSS Modules, Framer Motion: 
