@@ -6,40 +6,40 @@
 
 Projetos rodando: 
 ### Site terráquea
-<a href="https://terraquea.com.br/">Terraquea.com.br</a>
+<a href="https://terraquea.com.br/" target="_blank">Terraquea.com.br</a>
 
 ### Portifólio temporário
-<a href="https://ruancostacampos.vercel.app">Portifólio</a>
+<a href="https://ruancostacampos.vercel.app" target="_blank">Portifólio</a>
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
-<a href="https://terraquea.vercel.app/">terraquea.vercel.app</a>
+<a href="https://terraquea.vercel.app/ target="_blank" >terraquea.vercel.app</a>
 
 ### Site de produtos naturais [Versão NextJS (Em andamento)]
 React, CSS Modules, Framer Motion: 
-<a href="https://terraquea2.vercel.app/">terraquea2.vercel.app</a>
+<a href="https://terraquea2.vercel.app/" target="_blank">terraquea2.vercel.app</a>
 
 ### Consulta na Tabela SIGTAP 
 React, TailWindCSS: 
-<a href="https://sigtap-consulta.vercel.app/">sigtap-consulta.vercel.app</a>
+<a href="https://sigtap-consulta.vercel.app/" target="_blank">sigtap-consulta.vercel.app</a>
 
 ### Quiz em javascript puro
 Feito em um projeto onde trabalho como voluntário em um grupo de desenvolvedores de vários países, usando o 
 inglês para me comunicar com o time.
-<a href="https://ruancostacampos.github.io/oman-quiz/">ruancostacampos.github.io/oman-quiz/</a>
+<a href="https://ruancostacampos.github.io/oman-quiz/" target="_blank" >ruancostacampos.github.io/oman-quiz/</a>
 
 ### Adote um pet
 Feito durante uma turma multistack da treinaweb, onde fiz implementações adicionais na interface e no backend, 
 inclusive autenticação baseada no ip.
-<a href="https://adote-um-pet-eight.vercel.app/">Adote um Pet</a>
+<a href="https://adote-um-pet-eight.vercel.app/" target="_blank">Adote um Pet</a>
 
 ### Card de votação
 HTML, CSS, JavaScript: 
-<a href="https://ruancostacampos.github.io/interactive-rating/">Card de votação</a>
+<a href="https://ruancostacampos.github.io/interactive-rating/" target="_blank">Card de votação</a>
 
 ### Card Responsivo
 HTML, CSS: 
-<a href="https://ruancostacampos.github.io/product-card/">Card responsivo</a>
+<a href="https://ruancostacampos.github.io/product-card/" target="_blank">Card responsivo</a>
 
 
 
