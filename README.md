@@ -8,6 +8,16 @@ Projetos rodando:
 ### Site terráquea
 <a href="https://terraquea.com.br/" target="_blank">Terraquea.com.br</a>
 
+### FantasticaPay
+<a href="https://fantasticapay.com.br/" target="_blank">FantasticaPay</a>
+
+### Calculadora de taxas
+<a href="https://mundodasmaquininhas.com.br/calculadora/" target="_blank">Calculadora de taxas feita para um cliente</a>
+
+### Mundo Das Maquininhas
+<a href="https://mundodasmaquininhas.com.br/" target="_blank">Mundo das maquininhas</a>
+
+
 ### Portifólio temporário
 <a href="https://ruancostacampos.vercel.app" target="_blank">Portifólio</a>
 
