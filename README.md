@@ -5,21 +5,21 @@
 - ✉️ Me contate no email: ruancostadev@gmail.com
 
 Projetos rodando: 
+
+### Portifólio 
+<a href="https:/ruan.run" target="_blank">ruan.run</a>
+
 ### Site terráquea
-<a href="https://terraquea.com.br/" target="_blank">Terraquea.com.br</a>
+<a href="https://terraquea.com.br/" target="_blank">terraquea.com.br</a>
 
 ### FantasticaPay
-<a href="https://fantasticapay.com.br/" target="_blank">FantasticaPay</a>
+<a href="https://fantasticapay.com.br/" target="_blank">fantasticapay.com.br</a>
 
 ### Calculadora de taxas
 <a href="https://mundodasmaquininhas.com.br/calculadora/" target="_blank">Calculadora de taxas feita para um cliente</a>
 
 ### Mundo Das Maquininhas
-<a href="https://mundodasmaquininhas.com.br/" target="_blank">Mundo das maquininhas</a>
-
-
-### Portifólio temporário
-<a href="https://ruancostacampos.vercel.app" target="_blank">Portifólio</a>
+<a href="https://mundodasmaquininhas.com.br/" target="_blank">mundodasmaquininhas.com.br</a>
 
 ### Site de produtos naturais [Versão React]
 React, CSS Modules, Framer Motion: 
