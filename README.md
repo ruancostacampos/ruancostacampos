@@ -7,7 +7,7 @@
 Projetos rodando: 
 
 ### Portifólio 
-<a href="https:/ruan.run" target="_blank">ruan.run</a>
+<a href="https://portifolio-psi-kohl.vercel.app/pt" target="_blank">ruan.run</a>
 
 ### Site terráquea
 <a href="https://terraquea.com.br/" target="_blank">terraquea.com.br</a>
