@@ -1,68 +1,75 @@
-### Olá, eu sou Ruan Costa
+Aqui está uma versão mais profissional e bem estruturada para o seu README do LinkedIn:  
 
-- 📒 Estudante de desenvolvimento front-end e back-end
-- 🔥 Atualmente focado em JavaScript, buscando um desenvolvimento criativo.
-- ✉️ Me contate no email: ruancostadev@gmail.com
+---
 
-Projetos rodando: 
+# Olá, eu sou Ruan Costa 👋  
 
-### Portifólio 
-<a href="https://portifolio-psi-kohl.vercel.app/pt" target="_blank">ruan.run</a>
+💻 **Desenvolvedor Front-end Júnior** | 🚀 Apaixonado por tecnologia e soluções criativas  
 
-### Site terráquea
-<a href="https://terraquea.com.br/" target="_blank">terraquea.com.br</a>
+Sou um desenvolvedor especializado em **Angular** para criação de sistemas web, com experiência na integração de componentes com APIs e versionamento utilizando **Git**. Também já trabalhei com **Next.js** em projetos pessoais e profissionais.  
 
-### FantasticaPay
-<a href="https://fantasticapay.com.br/" target="_blank">fantasticapay.com.br</a>
+Sempre busco aprimorar minhas habilidades e explorar novas tecnologias para criar interfaces eficientes, intuitivas e responsivas. Atualmente, possuo **inglês básico**, com boa capacidade de compreensão, e participo de projetos que envolvem comunicação com equipes internacionais.  
 
-### Calculadora de taxas
-<a href="https://mundodasmaquininhas.com.br/calculadora/" target="_blank">Calculadora de taxas feita para um cliente</a>
+📩 **Entre em contato:** ruancostadev@gmail.com  
 
-### Mundo Das Maquininhas
-<a href="https://mundodasmaquininhas.com.br/" target="_blank">mundodasmaquininhas.com.br</a>
+---
 
-### Site de produtos naturais [Versão React]
-React, CSS Modules, Framer Motion: 
-<a href="https://terraquea.vercel.app/" target="_blank" >terraquea.vercel.app</a>
+## 🌟 Projetos em produção  
 
-### Site de produtos naturais [Versão NextJS (Em andamento)]
-React, CSS Modules, Framer Motion: 
-<a href="https://terraquea2.vercel.app/" target="_blank">terraquea2.vercel.app</a>
+### 📌 [Portfólio](https://portifolio-psi-kohl.vercel.app/pt)  
+Meu site pessoal com informações sobre minha trajetória e projetos.  
 
-### Consulta na Tabela SIGTAP 
-React, TailWindCSS: 
-<a href="https://sigtap-consulta.vercel.app/" target="_blank">sigtap-consulta.vercel.app</a>
+### 📌 [Terráquea](https://terraquea.com.br/)  
+E-commerce de produtos naturais.  
 
-### Quiz em javascript puro
-Feito em um projeto onde trabalho como voluntário em um grupo de desenvolvedores de vários países, usando o 
-inglês para me comunicar com o time.
-<a href="https://ruancostacampos.github.io/oman-quiz/" target="_blank" >ruancostacampos.github.io/oman-quiz/</a>
+### 📌 [FantasticaPay](https://fantasticapay.com.br/)  
+Plataforma de pagamentos digitais.  
 
-### Adote um pet
-Feito durante uma turma multistack da treinaweb, onde fiz implementações adicionais na interface e no backend, 
-inclusive autenticação baseada no ip.
-<a href="https://adote-um-pet-eight.vercel.app/" target="_blank">Adote um Pet</a>
+### 📌 [Calculadora de Taxas](https://mundodasmaquininhas.com.br/calculadora/)  
+Ferramenta desenvolvida para um cliente do setor financeiro.  
 
-### Card de votação
-HTML, CSS, JavaScript: 
-<a href="https://ruancostacampos.github.io/interactive-rating/" target="_blank">Card de votação</a>
+### 📌 [Mundo Das Maquininhas](https://mundodasmaquininhas.com.br/)  
+Site voltado para análise e comparação de maquininhas de pagamento.  
 
-### Card Responsivo
-HTML, CSS: 
-<a href="https://ruancostacampos.github.io/product-card/" target="_blank">Card responsivo</a>
+---
 
+## 🛠️ Outros projetos  
 
+### 🖥️ **E-commerce de produtos naturais**  
+- **[Versão React](https://terraquea.vercel.app/)** (React, CSS Modules, Framer Motion)  
+- **[Versão Next.js (Em andamento)](https://terraquea2.vercel.app/)** (React, Next.js, CSS Modules, Framer Motion)  
+
+### 📊 **Consulta na Tabela SIGTAP**  
+- **[sigtap-consulta.vercel.app](https://sigtap-consulta.vercel.app/)** (React, TailwindCSS)  
+
+### 🏆 **Quiz em JavaScript puro**  
+Projeto voluntário em um grupo de desenvolvedores de vários países, utilizando inglês para comunicação.  
+- **[ruancostacampos.github.io/oman-quiz/](https://ruancostacampos.github.io/oman-quiz/)**  
+
+### 🐾 **Adote um Pet**  
+Projeto desenvolvido em uma turma multistack da TreinaWeb, com melhorias na interface e backend, incluindo autenticação baseada no IP.  
+- **[Adote um Pet](https://adote-um-pet-eight.vercel.app/)**  
+
+### 🎨 **Componentes UI e Cards interativos**  
+- **[Card de votação](https://ruancostacampos.github.io/interactive-rating/)** (HTML, CSS, JavaScript)  
+- **[Card responsivo](https://ruancostacampos.github.io/product-card/)** (HTML, CSS)  
+
+---
+
+## 📊 Estatísticas  
 
 <div align="center">
   <a href="https://github.com/ruancostacampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruancostacampos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancostacampos&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-  
-  ##
-  
-  <div> 
+
+---
+
+## 🌐 Conecte-se comigo  
+
+<div> 
   <a href="https://www.instagram.com/ruanblues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ruancostadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-costa-a99459236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div>  
