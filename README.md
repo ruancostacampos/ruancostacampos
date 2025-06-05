@@ -1,6 +1,3 @@
-Aqui está uma versão mais profissional e bem estruturada para o seu README do LinkedIn:  
-
----
 
 # Olá, eu sou Ruan Costa 👋  
 
