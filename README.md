@@ -43,8 +43,14 @@ Plataforma SaaS de canal de denúncias corporativas.
 * **Tecnologias:** Next.js 16, TypeScript, PostgreSQL, Prisma 7, Tailwind CSS v4.
 * **Destaque:** Atuação Full Stack de ponta a ponta, desde a modelagem de dados e migrations no PostgreSQL até a criação das rotas de API e componentes de interface.
 
-### 📌 [Terráquea](https://terraquea.com.br/) | [FantasticaPay](https://fantasticapay.com.br/) *(Freelance)*
-Desenvolvimento Front-end para e-commerce de produtos naturais e plataforma de pagamentos digitais, integrando APIs complexas de checkout e focando em alta conversão e responsividade.
+### 📌 [Terráquea](https://terraquea.com.br/)
+Página de pré-lançamento (Coming Soon) imersiva para marca de produtos naturais.
+* **Tecnologias:** JavaScript, Three.js, GSAP, HTML, CSS.
+* **Destaque:** Foco em engenharia de UI e UX avançada. Desenvolvimento de uma experiência interativa utilizando **Three.js** para renderização de elementos 3D no navegador e **GSAP** para orquestrar animações fluidas e de alta performance, com o objetivo de capturar a atenção e gerar engajamento antes do lançamento oficial.
+
+### 📌 [FantasticaPay](https://fantasticapay.com.br/) *(Freelance)*
+Plataforma de pagamentos digitais.
+* **Destaque:** Desenvolvimento Front-end focado em fluxos de checkout seguros, alta conversão e responsividade para diferentes dispositivos.
 
 ---
 
